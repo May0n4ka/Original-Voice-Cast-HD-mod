@@ -36,5 +36,12 @@ This mod features these voice actors from various Persona games including the Pe
 - Derek Stephen Prince (Takaya Sakaki, Takeharu Kirijo)
 - Dan Woren (Igor, Shuji Ikutsuki)
 
+MORE
+Youtube (A playlist with videos of this mod)
+https://www.youtube.com/watch?v=ON_UqpNHS0A&list=PLLTNJbbiGHXS08yakOJVZBsHU4e4KY48w&pp=gAQB
+
+The Official Discord
+https://discord.gg/xYUsYPa4 
+
 ⓒAtlus ⓒSega All Rights reserved, this mod is not associated with Sega or Atlus, all rights reserved.
 
