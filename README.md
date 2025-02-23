@@ -8,6 +8,8 @@ I am a member of the mod that decided to post updates of this mod here in place 
 
 The audio is taken from P3P and upsampled from 22050Khz samplerate to a 48000Khz samplerate
 
+![5209AE8C-BB2B-4F99-BC8B-DBAFCF2BF83E](https://github.com/user-attachments/assets/450831f6-5913-4eb7-acdd-2b6bd05c2274)
+
 Voice lines featured are from various games from the Persona series including
 - Persona 3 FES
 - Persona 3 Portable
