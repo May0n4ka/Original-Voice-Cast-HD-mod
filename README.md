@@ -1,4 +1,6 @@
 # Persona-3-Reload-Original-Voice-Cast-HD-mod
+![53615E89-4BF4-4B01-A69F-6C947F8F6615](https://github.com/user-attachments/assets/c98b275f-1722-4117-8e2c-0c5b0a9bfdb0)
+
 A mod to restore the Original Voice cast from Persona 3 into Persona 3 Reload
 
 This is a WIP page for Saus Ev's P3R Original Voice Cast HD mod
