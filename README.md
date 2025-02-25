@@ -4,7 +4,7 @@
 A mod to restore the Original Voice cast from Persona 3 into Persona 3 Reload
 
 This is a WIP page for Saus Ev's P3R Original Voice Cast HD mod
-The goal of this is to replace various voice lines from P3R with the original voice actors in P3, P3P, P3FES etc.
+The goal of this mod is to replace various voice lines from P3R with the original voice actors in P3, P3P, P3FES etc.
 
 I am a member of the mod that decided to post updates of this mod here in place for Saus Ev's abscence.
 
