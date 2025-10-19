@@ -22,7 +22,7 @@ Voice lines featured are from various games from the Persona series including
 - Persona 3 Dancing in Moonlight
 - Persona 5 Royal
 
-This mod features these voice actors from various Persona games including the Persona 3 Cast
+This mod features these voice actors from various Persona games that feature the Persona 3 Cast
 - Yuri Lowenthal (Protagonist, Phraos and Ryoji Mochizuki)
 - Michelle Ruff (Yukari Takeba)
 - Vic Mignogna (Junpei Iori)
